@@ -1,0 +1,6 @@
+{
+    "account": "0x1AA7364929674294CdE60bb3903735D3b61834c0",
+    "stratum_server": "us1.ethermine.org:4444",
+    "backup_stratum_server": "us2.ethermine.org:4444",
+    "farm_recheck": 200
+}
